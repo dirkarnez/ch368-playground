@@ -1,5 +1,8 @@
 ch368-playground
 ================
+### Pinout
+- [PCI Express 1x · AllPinouts](https://allpinouts.org/pinouts/connectors/buses/pci-express-1x/)
+
 ### Repos
 - [WCHSoftGroup/ch36x_linux: ch365/ch367/ch368 PCI/PCIE driver, application library and demo.](https://github.com/WCHSoftGroup/ch36x_linux)
 
